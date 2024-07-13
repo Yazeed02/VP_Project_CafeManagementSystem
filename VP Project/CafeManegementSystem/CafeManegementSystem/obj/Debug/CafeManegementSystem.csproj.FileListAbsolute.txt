@@ -1,0 +1,46 @@
+C:\Users\Asus\Desktop\MEU\2022 2nd Semester\4-Visual Programming\VP Project\CafeManegementSystem\CafeManegementSystem\bin\Debug\CafeManegementSystem.exe.config
+C:\Users\Asus\Desktop\MEU\2022 2nd Semester\4-Visual Programming\VP Project\CafeManegementSystem\CafeManegementSystem\bin\Debug\CafeManegementSystem.exe
+C:\Users\Asus\Desktop\MEU\2022 2nd Semester\4-Visual Programming\VP Project\CafeManegementSystem\CafeManegementSystem\bin\Debug\CafeManegementSystem.pdb
+C:\Users\Asus\Desktop\MEU\2022 2nd Semester\4-Visual Programming\VP Project\CafeManegementSystem\CafeManegementSystem\obj\Debug\CafeManegementSystem.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\MEU\2022 2nd Semester\4-Visual Programming\VP Project\CafeManegementSystem\CafeManegementSystem\obj\Debug\CafeManegementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\MEU\2022 2nd Semester\4-Visual Programming\VP Project\CafeManegementSystem\CafeManegementSystem\obj\Debug\CafeManegementSystem.Properties.Resources.resources
+C:\Users\Asus\Desktop\MEU\2022 2nd Semester\4-Visual Programming\VP Project\CafeManegementSystem\CafeManegementSystem\obj\Debug\CafeManegementSystem.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\MEU\2022 2nd Semester\4-Visual Programming\VP Project\CafeManegementSystem\CafeManegementSystem\obj\Debug\CafeManegementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\MEU\2022 2nd Semester\4-Visual Programming\VP Project\CafeManegementSystem\CafeManegementSystem\obj\Debug\CafeManegementSystem.exe
+C:\Users\Asus\Desktop\MEU\2022 2nd Semester\4-Visual Programming\VP Project\CafeManegementSystem\CafeManegementSystem\obj\Debug\CafeManegementSystem.pdb
+C:\Users\Asus\Desktop\MEU\2022 2nd Semester\4-Visual Programming\VP Project\CafeManegementSystem\CafeManegementSystem\obj\Debug\CafeManegementSystem.menu.resources
+C:\Users\Asus\Desktop\MEU\2022 2nd Semester\4-Visual Programming\VP Project\CafeManegementSystem\CafeManegementSystem\bin\Debug\loginDB.mdf
+C:\Users\Asus\Desktop\MEU\2022 2nd Semester\4-Visual Programming\VP Project\CafeManegementSystem\CafeManegementSystem\bin\Debug\loginDB_log.ldf
+C:\Users\Asus\Desktop\MEU\2022 2nd Semester\4-Visual Programming\VP Project\CafeManegementSystem\CafeManegementSystem\obj\Debug\CafeManegementSystem.meuCafe.resources
+C:\Users\ljabe\OneDrive\Desktop\VP Project\CafeManegementSystem\CafeManegementSystem\obj\Debug\CafeManegementSystem.csproj.AssemblyReference.cache
+C:\Users\ljabe\OneDrive\Desktop\VP Project\CafeManegementSystem\CafeManegementSystem\obj\Debug\CafeManegementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\ljabe\OneDrive\Desktop\VP Project\CafeManegementSystem\CafeManegementSystem\obj\Debug\CafeManegementSystem.exe
+C:\Users\ljabe\OneDrive\Desktop\VP Project\CafeManegementSystem\CafeManegementSystem\obj\Debug\CafeManegementSystem.pdb
+C:\Users\ljabe\OneDrive\Desktop\VP Project\CafeManegementSystem\CafeManegementSystem\bin\Debug\loginDB.mdf
+C:\Users\ljabe\OneDrive\Desktop\VP Project\CafeManegementSystem\CafeManegementSystem\bin\Debug\loginDB_log.ldf
+C:\Users\ljabe\OneDrive\Desktop\VP Project\CafeManegementSystem\CafeManegementSystem\bin\Debug\CafeManegementSystem.exe.config
+C:\Users\ljabe\OneDrive\Desktop\VP Project\CafeManegementSystem\CafeManegementSystem\bin\Debug\CafeManegementSystem.exe
+C:\Users\ljabe\OneDrive\Desktop\VP Project\CafeManegementSystem\CafeManegementSystem\bin\Debug\CafeManegementSystem.pdb
+C:\Users\ljabe\OneDrive\Desktop\VP Project\CafeManegementSystem\CafeManegementSystem\obj\Debug\CafeManegementSystem.menu.resources
+C:\Users\ljabe\OneDrive\Desktop\VP Project\CafeManegementSystem\CafeManegementSystem\obj\Debug\CafeManegementSystem.meuCafe.resources
+C:\Users\ljabe\OneDrive\Desktop\VP Project\CafeManegementSystem\CafeManegementSystem\obj\Debug\CafeManegementSystem.Properties.Resources.resources
+C:\Users\ljabe\OneDrive\Desktop\VP Project\CafeManegementSystem\CafeManegementSystem\obj\Debug\CafeManegementSystem.csproj.GenerateResource.cache
+C:\Users\ljabe\OneDrive\Desktop\VP Project\CafeManegementSystem\CafeManegementSystem\obj\Debug\CafeManegementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ljabe\OneDrive\Desktop\VP Project\CafeManegementSystem\CafeManegementSystem\obj\Debug\CafeManegementSystem.Form1.resources
+C:\Users\Asus\Desktop\VP Project\VP Project\CafeManegementSystem\CafeManegementSystem\obj\Debug\CafeManegementSystem.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\VP Project\VP Project\CafeManegementSystem\CafeManegementSystem\obj\Debug\CafeManegementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\VP Project\VP Project\CafeManegementSystem\CafeManegementSystem\obj\Debug\CafeManegementSystem.exe
+C:\Users\Asus\Desktop\VP Project\VP Project\CafeManegementSystem\CafeManegementSystem\obj\Debug\CafeManegementSystem.pdb
+C:\Users\Asus\Desktop\VP Project\VP Project\CafeManegementSystem\CafeManegementSystem\bin\Debug\loginDB.mdf
+C:\Users\Asus\Desktop\VP Project\VP Project\CafeManegementSystem\CafeManegementSystem\bin\Debug\loginDB_log.ldf
+C:\Users\Asus\Desktop\VP Project\VP Project\CafeManegementSystem\CafeManegementSystem\bin\Debug\CafeManegementSystem.exe.config
+C:\Users\Asus\Desktop\VP Project\VP Project\CafeManegementSystem\CafeManegementSystem\bin\Debug\CafeManegementSystem.exe
+C:\Users\Asus\Desktop\VP Project\VP Project\CafeManegementSystem\CafeManegementSystem\bin\Debug\CafeManegementSystem.pdb
+C:\Users\Asus\Desktop\VP Project\VP Project\CafeManegementSystem\CafeManegementSystem\obj\Debug\CafeManegementSystem.menu.resources
+C:\Users\Asus\Desktop\VP Project\VP Project\CafeManegementSystem\CafeManegementSystem\obj\Debug\CafeManegementSystem.meuCafe.resources
+C:\Users\Asus\Desktop\VP Project\VP Project\CafeManegementSystem\CafeManegementSystem\obj\Debug\CafeManegementSystem.Properties.Resources.resources
+C:\Users\Asus\Desktop\VP Project\VP Project\CafeManegementSystem\CafeManegementSystem\obj\Debug\CafeManegementSystem.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\VP Project\VP Project\CafeManegementSystem\CafeManegementSystem\obj\Debug\CafeManegementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Yazeed\Desktop\VP Project\CafeManegementSystem\CafeManegementSystem\obj\Debug\CafeManegementSystem.csproj.AssemblyReference.cache
+C:\Users\Yazeed\Desktop\VP Project\CafeManegementSystem\CafeManegementSystem\obj\Debug\CafeManegementSystem.exe
+C:\Users\Yazeed\Desktop\VP Project\CafeManegementSystem\CafeManegementSystem\obj\Debug\CafeManegementSystem.pdb

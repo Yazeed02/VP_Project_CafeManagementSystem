@@ -1,0 +1,13 @@
+C:\Users\Asus\Desktop\VP Project\VP Project\Administrator\Administrator\bin\Debug\loginDB.mdf
+C:\Users\Asus\Desktop\VP Project\VP Project\Administrator\Administrator\bin\Debug\loginDB_log.ldf
+C:\Users\Asus\Desktop\VP Project\VP Project\Administrator\Administrator\bin\Debug\Administrator.exe.config
+C:\Users\Asus\Desktop\VP Project\VP Project\Administrator\Administrator\bin\Debug\Administrator.exe
+C:\Users\Asus\Desktop\VP Project\VP Project\Administrator\Administrator\bin\Debug\Administrator.pdb
+C:\Users\Asus\Desktop\VP Project\VP Project\Administrator\Administrator\obj\Debug\Administrator.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\VP Project\VP Project\Administrator\Administrator\obj\Debug\Administrator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\VP Project\VP Project\Administrator\Administrator\obj\Debug\Administrator.adminstratorForm.resources
+C:\Users\Asus\Desktop\VP Project\VP Project\Administrator\Administrator\obj\Debug\Administrator.Properties.Resources.resources
+C:\Users\Asus\Desktop\VP Project\VP Project\Administrator\Administrator\obj\Debug\Administrator.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\VP Project\VP Project\Administrator\Administrator\obj\Debug\Administrator.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\VP Project\VP Project\Administrator\Administrator\obj\Debug\Administrator.exe
+C:\Users\Asus\Desktop\VP Project\VP Project\Administrator\Administrator\obj\Debug\Administrator.pdb

@@ -1,2 +1,2 @@
-Visual Proggraming Using C# Project 
+Visual Programing Using C# Project 
 Coffee Shop Management System
